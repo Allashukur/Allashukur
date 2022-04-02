@@ -1,5 +1,5 @@
 ### Hi 👋
-- My Portfolio url : https://t.me/Allaberganov_portfolio
+- My Portfolio Telegram url : https://t.me/Allaberganov_portfolio
 
 <!--
 **Allashukur/Allashukur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
