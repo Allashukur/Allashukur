@@ -1,6 +1,6 @@
 ### Hi 👋
-- • age: 24
-- • education: PDP IT ACADEMY
+- age: 24
+- education: PDP IT ACADEMY
 <!--
 **Allashukur/Allashukur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
