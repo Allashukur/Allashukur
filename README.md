@@ -1,10 +1,10 @@
 ### Hi 👋
 - My Portfolio Telegram url : https://t.me/Allaberganov_portfolio
 
-- https://raw.githubusercontent.com/theMir8/theMir8/output/github-contribution-grid-snake.svg
 
 <!--
 **Allashukur/Allashukur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ https://raw.githubusercontent.com/theMir8/theMir8/output/github-contribution-grid-snake.svg
 
 
 
